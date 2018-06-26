@@ -1,0 +1,1 @@
+<td><%= link_to 'Edit', edit_todo_item_path(todo_item) %></td>

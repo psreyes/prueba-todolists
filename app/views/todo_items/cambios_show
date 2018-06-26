@@ -1,0 +1,26 @@
+<td><%= link_to 'Edit', edit_todo_item_path(todo_item) %></td>
+
+en routes.rb:
+
+resources :todo_lists
+  resources :todo_lists
+  resources :users
+  resources :users
+  resources :users
+  resources :users
+  resources :todo_lists
+  resources :todo_items
+  resources :todo_items
+  resources :todo_lists
+  resources :todo_lists
+  resources :profiles
+  resources :profiles
+  resources :profiles
+  resources :profiles
+  resources :profiles
+  resources :profiles
+  resources :users
+  resources :todo_items
+  resources :todo_lists
+  resources :profiles
+  resources :users
